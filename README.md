@@ -23,7 +23,7 @@ NewsCorner is an online news application that provides real-time news headlines 
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/NewsCorner.git
+git clone https://github.com/18Aswin/NewsCorner.git
 ```
 
 2. Open `index.html` in your preferred web browser.
