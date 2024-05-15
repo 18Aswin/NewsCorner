@@ -1,5 +1,7 @@
 # NewsWeb - Real-Time News Application
 
+![NewsWeb Preview](preview.png)
+
 NewsWeb is an online news application that provides real-time news headlines sourced from NewsAPI. It offers a user-friendly interface where users can browse through the latest news and search for news articles based on specific keywords or topics. Built using HTML, CSS, and JavaScript, NewsWeb delivers a seamless news browsing experience.
 
 ## Features
