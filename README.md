@@ -1,2 +1,53 @@
-# NewsWeb
-Welcome to NewsWeb, a dynamic and responsive news website that keeps you informed with the latest headlines from around the world. Powered by the NewsAPI, this project aims to deliver a seamless and user-friendly experience for accessing up-to-date news articles.
+# NewsWeb - Real-Time News Application
+
+NewsWeb is an online news application that provides real-time news headlines sourced from NewsAPI. It offers a user-friendly interface where users can browse through the latest news and search for news articles based on specific keywords or topics. Built using HTML, CSS, and JavaScript, NewsWeb delivers a seamless news browsing experience.
+
+## Features
+
+- Real-time news headlines fetched from NewsAPI.
+- Search functionality to find news articles based on keywords or topics.
+- Clean and responsive user interface for smooth navigation.
+- Easy to integrate and customize.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- NewsAPI
+
+## Usage
+
+1. Clone the repository:
+
+```
+git clone https://github.com/your-username/newsweb.git
+```
+
+2. Open `index.html` in your preferred web browser.
+
+3. Start exploring the latest news headlines or use the search feature to find news articles based on your interests.
+
+## Getting NewsAPI Access
+
+To use NewsWeb, you need to sign up for a free API key from [NewsAPI](https://newsapi.org/). Once you have obtained your API key, replace `YOUR_API_KEY` in the `scripts/news.js` file with your actual API key.
+
+```javascript
+const apiKey = 'YOUR_API_KEY';
+```
+
+## Credits
+
+- NewsAPI - [https://newsapi.org/](https://newsapi.org/)
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or create a pull request.
+
+## About
+
+NewsWeb is developed and maintained by Aswin A Nair. Feel free to reach out with any questions or feedback.
+
+---
+
+Enjoy staying updated with the latest news through NewsWeb! If you have any questions or encounter any issues, don't hesitate to reach out.
