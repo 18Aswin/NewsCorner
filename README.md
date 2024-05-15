@@ -1,8 +1,8 @@
-# NewsWeb - Real-Time News Application
+# NewsCorner - Real-Time News Application
 
-![NewsWeb Preview](preview.png)
+![NewsCorber Preview](preview.png)
 
-NewsWeb is an online news application that provides real-time news headlines sourced from NewsAPI. It offers a user-friendly interface where users can browse through the latest news and search for news articles based on specific keywords or topics. Built using HTML, CSS, and JavaScript, NewsWeb delivers a seamless news browsing experience.
+NewsCorner is an online news application that provides real-time news headlines sourced from NewsAPI. It offers a user-friendly interface where users can browse through the latest news and search for news articles based on specific keywords or topics. Built using HTML, CSS, and JavaScript, NewsCorner delivers a seamless news browsing experience.
 
 ## Features
 
@@ -23,7 +23,7 @@ NewsWeb is an online news application that provides real-time news headlines sou
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/newsweb.git
+git clone https://github.com/your-username/NewsCorner.git
 ```
 
 2. Open `index.html` in your preferred web browser.
@@ -32,7 +32,7 @@ git clone https://github.com/your-username/newsweb.git
 
 ## Getting NewsAPI Access
 
-To use NewsWeb, you need to sign up for a free API key from [NewsAPI](https://newsapi.org/). Once you have obtained your API key, replace `YOUR_API_KEY` in the `scripts/news.js` file with your actual API key.
+To use NewsCorner, you need to sign up for a free API key from [NewsAPI](https://newsapi.org/). Once you have obtained your API key, replace `YOUR_API_KEY` in the `scripts/news.js` file with your actual API key.
 
 ```javascript
 const apiKey = 'YOUR_API_KEY';
@@ -48,8 +48,8 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 
 ## About
 
-NewsWeb is developed and maintained by Aswin A Nair. Feel free to reach out with any questions or feedback.
+NewsCorner is developed and maintained by Aswin A Nair. Feel free to reach out with any questions or feedback.
 
 ---
 
-Enjoy staying updated with the latest news through NewsWeb! If you have any questions or encounter any issues, don't hesitate to reach out.
+Enjoy staying updated with the latest news through NewsCorner! If you have any questions or encounter any issues, don't hesitate to reach out.
